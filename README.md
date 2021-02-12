@@ -46,26 +46,27 @@ Bilayer.tif : This is an example tiff stack to test the program. In general a ti
 # Imaging FCS publications
 1. Kannan, B., J. Har, P. Liu, I. Maruyama, J. Ding, et al. 2006. "Electron multiplying charge-coupled device camera based fluorescence correlation spectroscopy." Anal Chem. 78: 3444–3451.
 2. Kannan, B., L. Guo, T. Sudhaharan, S. Ahmed, I. Maruyama, et al. 2007. "Spatially resolved total internal reflection fluorescence correlation microscopy using an electron multiplying charge-coupled device camera." Anal Chem. 79: 4463–4470.
-Guo, L., J.Y. Har, J. Sankaran, Y. Hong, B. Kannan, et al. 2008. "Molecular Diffusion Measurement in Lipid Bilayers over Wide Concentration Ranges: A Comparative Study." ChemPhysChem. 9: 721–728.
-Sankaran, J., M. Manna, L. Guo, R. Kraut, and T. Wohland. 2009. "Diffusion, Transport, and Cell Membrane Organization Investigated by Imaging Fluorescence Cross-Correlation Spectroscopy." Biophys J. 97: 2630–2639.
-Wohland, T., X. Shi, J. Sankaran, and E. Stelzer. 2010. "Single plane illumination fluorescence correlation spectroscopy (SPIM-FCS) probes inhomogeneous three-dimensional environments." Opt Express. 18: 10627–10641.
-Kraut, R., N. Bag, and T. Wohland. 2012. "Methods in Cell Biology." Elsevier.
-Bag, N., J. Sankaran, A. Paul, R.S. Kraut, and T. Wohland. 2012. "Calibration and Limits of Camera-Based Fluorescence Correlation Spectroscopy: A Supported Lipid Bilayer Study." ChemPhysChem. 13: 2784–2794.
-Sankaran, J., N. Bag, R.S. Kraut, and T. Wohland. 2013. "Accuracy and Precision in Camera-Based Fluorescence Correlation Spectroscopy Measurements." Anal Chem. : 130404142328008.
-Bag, N., A. Ali, V.S. Chauhan, T. Wohland, and A. Mishra. 2013. "Membrane destabilization by monomeric hIAPP observed by imaging fluorescence correlation spectroscopy." Chem. Commun. 49: 9155.
-Singh, A.P., J.W. Krieger, J. Buchholz, E. Charbon, J. Langowski, et al. 2013. "The performance of 2D array detectors for light sheet based fluorescence correlation spectroscopy." Opt Express. 21: 8652.
-Bag N., D.H.X. Yap, T. Wohland, "Temperature dependence of diffusion in model and live cell membranes characterized by imaging fluorescence correlation spectroscopy." BBA Biomembranes 1838 (2014) 802–813.
-Guo, S.M., N. Bag, A. Mishra, T. Wohland, and M. Bathe, "Bayesian Total Internal Reflection Fluorescence Correlation Spectroscopy Reveals hIAPP-Induced Plasma Membrane Domain Organization in Live Cells." Biophy. J. 2014, (106) 190–200.
-Krieger, J.W., A.P. Singh, C.S. Garbe, T. Wohland and J. Langowski, “Dual-Color Fluorescence Cross-Correlation Spectroscopy on a Single Plane Illumination Microscope (SPIM-FCCS)”, Optics Express (2014), 22(3), 2358–2375.
-Bag, N; Huang, S; Wohland, T. “Plasma Membrane Organization of Epidermal Growth Factor Receptor in Resting and Ligand-Bound States.” Biophys J. 2015; 109(9):1925-36.
-Machan R, Foo YH, Wohland T. "On the Equivalence of FCS and FRAP: Simultaneous Lipid Membrane Measurements." Biophys. J. 2016, (111) 152–161.
-Bag N, Ng XW, Sankaran J, Wohland T. "Spatiotemporal mapping of diffusion dynamics and organization in plasma membranes." Methods Appl. Fluoresc. 4 (2016) 034003.
-Ng XW, Teh C., Korzh V, and Wohland T. "The Secreted Signaling Protein Wnt3 Is Associated with Membrane Domains In Vivo: A SPIM-FCS Study." Biophy.J. 2016, (111) 418–429.
+3 Guo, L., J.Y. Har, J. Sankaran, Y. Hong, B. Kannan, et al. 2008. "Molecular Diffusion Measurement in Lipid Bilayers over Wide Concentration Ranges: A Comparative Study." ChemPhysChem. 9: 721–728.
+4. Sankaran, J., M. Manna, L. Guo, R. Kraut, and T. Wohland. 2009. "Diffusion, Transport, and Cell Membrane Organization Investigated by Imaging Fluorescence Cross-Correlation Spectroscopy." Biophys J. 97: 2630–2639.
+5. Wohland, T., X. Shi, J. Sankaran, and E. Stelzer. 2010. "Single plane illumination fluorescence correlation spectroscopy (SPIM-FCS) probes inhomogeneous three-dimensional environments." Opt Express. 18: 10627–10641.
+6. Kraut, R., N. Bag, and T. Wohland. 2012. "Methods in Cell Biology." Elsevier.
+7. Bag, N., J. Sankaran, A. Paul, R.S. Kraut, and T. Wohland. 2012. "Calibration and Limits of Camera-Based Fluorescence Correlation Spectroscopy: A Supported Lipid Bilayer Study." ChemPhysChem. 13: 2784–2794.
+8. Sankaran, J., N. Bag, R.S. Kraut, and T. Wohland. 2013. "Accuracy and Precision in Camera-Based Fluorescence Correlation Spectroscopy Measurements." Anal Chem. : 130404142328008.
+9. Bag, N., A. Ali, V.S. Chauhan, T. Wohland, and A. Mishra. 2013. "Membrane destabilization by monomeric hIAPP observed by imaging fluorescence correlation spectroscopy." Chem. Commun. 49: 9155.
+10. Singh, A.P., J.W. Krieger, J. Buchholz, E. Charbon, J. Langowski, et al. 2013. "The performance of 2D array detectors for light sheet based fluorescence correlation spectroscopy." Opt Express. 21: 8652.
+11. Bag N., D.H.X. Yap, T. Wohland, "Temperature dependence of diffusion in model and live cell membranes characterized by imaging fluorescence correlation spectroscopy." BBA Biomembranes 1838 (2014) 802–813.
+12. Guo, S.M., N. Bag, A. Mishra, T. Wohland, and M. Bathe, "Bayesian Total Internal Reflection Fluorescence Correlation Spectroscopy Reveals hIAPP-Induced Plasma Membrane Domain Organization in Live Cells." Biophy. J. 2014, (106) 190–200.
+13. Krieger, J.W., A.P. Singh, C.S. Garbe, T. Wohland and J. Langowski, “Dual-Color Fluorescence Cross-Correlation Spectroscopy on a Single Plane Illumination Microscope (SPIM-FCCS)”, Optics Express (2014), 22(3), 2358–2375.
+14. Bag, N; Huang, S; Wohland, T. “Plasma Membrane Organization of Epidermal Growth Factor Receptor in Resting and Ligand-Bound States.” Biophys J. 2015; 109(9):1925-36.
+15. Machan R, Foo YH, Wohland T. "On the Equivalence of FCS and FRAP: Simultaneous Lipid Membrane Measurements." Biophys. J. 2016, (111) 152–161.
+16. Bag N, Ng XW, Sankaran J, Wohland T. "Spatiotemporal mapping of diffusion dynamics and organization in plasma membranes." Methods Appl. Fluoresc. 4 (2016) 034003.
+17. Ng XW, Teh C., Korzh V, and Wohland T. "The Secreted Signaling Protein Wnt3 Is Associated with Membrane Domains In Vivo: A SPIM-FCS Study." Biophy.J. 2016, (111) 418–429.
+
 # Imaging FCS reviews
-N. Bag and T. Wohland, “Imaging Fluorescence Fluctuation Spectroscopy: New Tools for Quantitative Bioimaging”. Ann. Rev. Phys. Chem. (2014) 65:225–248.
-A.P. Singh and T. Wohland, “Applications of imaging fluorescence correlation spectroscopy”, Curr. Op. Chem. Biol. (2014) 20:29–35.
+1. N. Bag and T. Wohland, “Imaging Fluorescence Fluctuation Spectroscopy: New Tools for Quantitative Bioimaging”. Ann. Rev. Phys. Chem. (2014) 65:225–248.
+2. A.P. Singh and T. Wohland, “Applications of imaging fluorescence correlation spectroscopy”, Curr. Op. Chem. Biol. (2014) 20:29–35.
 Gpufit
-A. Przybylski, B.X.R. Thiel, J. Keller-Findeisen, B. Stock, and M. Bates, “Gpufit: An open-source toolkit for GPU-accelerated curve fitting.”, Sci. Rep. (2017) 1–9.
+3. A. Przybylski, B.X.R. Thiel, J. Keller-Findeisen, B. Stock, and M. Bates, “Gpufit: An open-source toolkit for GPU-accelerated curve fitting.”, Sci. Rep. (2017) 1–9.
 
 # Disclaimer
 The software and data on this site are provided for personal or academic use only and may not be used in any commercial venture or distributions. All files have been virus scanned, however, for your own protection; you should scan these files again. You assume the entire risk related to your use of this software and data. By using the software and data on this site your expressly assume all risks of data loss or damage alleged to have been caused by the software and data. The Biophysical Fluorescence Laboratory at NUS is providing this data "as is," and disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will the Biophysical Fluorescence Laboratory at NUS and/or NUS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this software and data.
