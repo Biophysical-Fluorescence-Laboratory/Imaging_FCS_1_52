@@ -18,12 +18,10 @@ The following files are needed:
 1. Imaging_FCS_1_52.jar : Put this file in the plugin folder of FIJI (“Fiji.app\plugins”). 
 2. gpufitImFCS.jar : Put this file in the jars folder of FIJI (“Fiji.app\jars”). Start FIJI. You will find Imaging_FCS_1_52 under the plugin tab.
 3. Imagescience: Either install imagescience.jar in the jar folder within FIJI or link the update side to imagescience. This supports the probability distributions used in the simulator.
-http://www.imagescience.org/meijering/software/imagescience/
+  http://www.imagescience.org/meijering/software/imagescience/
 
-4. Apache POI :  You need to install Apache poi-3.17 (the latest stable release at the time of writing). The Apache Poi provides the necessary code for the writing and reading of .xlsx spreadsheet files, which are used to store and read experimental data. You can copy the whole poi-3.17 folder into the jars folder of Fiji (\Fiji.app\jars). It has also been found that sometimes there are errors in reading the jar files inside the poi folder.
-http://poi.apache.org/download.html
-
-In case, if there are errors while trying to run the plugin and if the error is associated with poi files, one suggestion is to place all the jar files inside the poi folder directly under the jars folder. In total, there must be 13 jar files as per poi 3.17. Six of them are found just inside the folder. Five of them are in the lib folder and another two of them are in the ooxml-lib folder.
+4. Apache POI :  You need to install Apache poi-3.17 (the latest stable release at the time of writing). The Apache Poi provides the necessary code for the writing and reading of .xlsx spreadsheet files, which are used to store and read experimental data. You can copy the whole poi-3.17 folder into the jars folder of Fiji (\Fiji.app\jars). It has also been found that sometimes there are errors in reading the jar files inside the poi folder. In case, if there are errors while trying to run the plugin and if the error is associated with poi files, one suggestion is to place all the jar files inside the poi folder directly under the jars folder. In total, there must be 13 jar files as per poi 3.17. Six of them are found just inside the folder. Five of them are in the lib folder and another two of them are in the ooxml-lib folder.
+  http://poi.apache.org/download.html
 
 
 If you want to compile the program yourself:
