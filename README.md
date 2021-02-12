@@ -36,7 +36,7 @@ Mac: If you would to compile the program yourself you need to install a Java IDE
 Switch off SCIFIO for file opening in ImageJ2 as Imaging_FCS_1_52 does not work with SCIFIO yet. To switch SCIFIO off, go to Edit\Options\ImageJ2 in the Fiji control bar. A dialog will appear in which you can untick the option “Use SCIFIO when opening files”.
 
 # Example File
-Bilayer.tif : This is an example tiff stack to test the program. In general a tiff stack should contain at least 20,000 frames which were recorded with a time resolution of 1 ms or less. This is sufficient to resolve the dynamics in lipid bilayers. However, we recommend to take at least 50,000 frames for better statistics. For faster processes, shorter frame times and more frames are required (see Sankaran et al. Analytical Chemistry 2013).
+Bilayer.tif: This is an example tiff stack to test the program. In general a tiff stack should contain at least 20,000 frames which were recorded with a time resolution of 1 ms or less. This is sufficient to resolve the dynamics in lipid bilayers. However, we recommend to take at least 50,000 frames for better statistics. For faster processes, shorter frame times and more frames are required (see Sankaran et al. Analytical Chemistry 2013).
 
 # References:
 # Correlator Scheme
