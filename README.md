@@ -39,7 +39,7 @@ Bilayer.tif: This is an example tiff stack to test the program. In general a tif
 # Manual
 This manual contains the basic instructions how to use the program, the definition of all items in the control and fit panels, the file formats of the saved data, and the theoretical functions used for fitting.
 
-# References:
+# References
 # Correlator Scheme
 1. Meseth, U., T. Wohland, R. Rigler, and H. Vogel. 1999. "Resolution of fluorescence correlation measurements." Biophys J. 76: 1619–1631.
 2. Shi, X., and T. "Wohland. 2010. Fluorescence Correlation Spectroscopy." In: Diaspro A, editor. Nanoscopy and Multidimensional Optical Fluorescence Microscopy. Boca Raton: CRC Press. pp. 6.1–6.34.
