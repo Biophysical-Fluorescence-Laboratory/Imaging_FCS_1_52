@@ -40,12 +40,12 @@ Bilayer.tif : This is an example tiff stack to test the program. In general a ti
 
 # References:
 # Correlator Scheme
-Meseth, U., T. Wohland, R. Rigler, and H. Vogel. 1999. "Resolution of fluorescence correlation measurements." Biophys J. 76: 1619–1631.
-Shi, X., and T. "Wohland. 2010. Fluorescence Correlation Spectroscopy." In: Diaspro A, editor. Nanoscopy and Multidimensional Optical Fluorescence Microscopy. Boca Raton: CRC Press. pp. 6.1–6.34.
-Sankaran, J., X. Shi, L.Y. Ho, E.H.K. Stelzer, and T. Wohland. 2010. "ImFCS: a software for imaging FCS data analysis and visualization." Opt Express. 18: 25468–25481.
+1. Meseth, U., T. Wohland, R. Rigler, and H. Vogel. 1999. "Resolution of fluorescence correlation measurements." Biophys J. 76: 1619–1631.
+2. Shi, X., and T. "Wohland. 2010. Fluorescence Correlation Spectroscopy." In: Diaspro A, editor. Nanoscopy and Multidimensional Optical Fluorescence Microscopy. Boca Raton: CRC Press. pp. 6.1–6.34.
+3. Sankaran, J., X. Shi, L.Y. Ho, E.H.K. Stelzer, and T. Wohland. 2010. "ImFCS: a software for imaging FCS data analysis and visualization." Opt Express. 18: 25468–25481.
 # Imaging FCS publications
-Kannan, B., J. Har, P. Liu, I. Maruyama, J. Ding, et al. 2006. "Electron multiplying charge-coupled device camera based fluorescence correlation spectroscopy." Anal Chem. 78: 3444–3451.
-Kannan, B., L. Guo, T. Sudhaharan, S. Ahmed, I. Maruyama, et al. 2007. "Spatially resolved total internal reflection fluorescence correlation microscopy using an electron multiplying charge-coupled device camera." Anal Chem. 79: 4463–4470.
+1. Kannan, B., J. Har, P. Liu, I. Maruyama, J. Ding, et al. 2006. "Electron multiplying charge-coupled device camera based fluorescence correlation spectroscopy." Anal Chem. 78: 3444–3451.
+2. Kannan, B., L. Guo, T. Sudhaharan, S. Ahmed, I. Maruyama, et al. 2007. "Spatially resolved total internal reflection fluorescence correlation microscopy using an electron multiplying charge-coupled device camera." Anal Chem. 79: 4463–4470.
 Guo, L., J.Y. Har, J. Sankaran, Y. Hong, B. Kannan, et al. 2008. "Molecular Diffusion Measurement in Lipid Bilayers over Wide Concentration Ranges: A Comparative Study." ChemPhysChem. 9: 721–728.
 Sankaran, J., M. Manna, L. Guo, R. Kraut, and T. Wohland. 2009. "Diffusion, Transport, and Cell Membrane Organization Investigated by Imaging Fluorescence Cross-Correlation Spectroscopy." Biophys J. 97: 2630–2639.
 Wohland, T., X. Shi, J. Sankaran, and E. Stelzer. 2010. "Single plane illumination fluorescence correlation spectroscopy (SPIM-FCS) probes inhomogeneous three-dimensional environments." Opt Express. 18: 10627–10641.
