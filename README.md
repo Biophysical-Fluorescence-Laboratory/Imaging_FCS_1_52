@@ -69,7 +69,7 @@ This manual contains the basic instructions how to use the program, the definiti
 Gpufit
 
 # Gpufit
-A. Przybylski, B.X.R. Thiel, J. Keller-Findeisen, B. Stock, and M. Bates, “Gpufit: An open-source toolkit for GPU-accelerated curve fitting.”, Sci. Rep. (2017) 1–9.
+1. A. Przybylski, B.X.R. Thiel, J. Keller-Findeisen, B. Stock, and M. Bates, “Gpufit: An open-source toolkit for GPU-accelerated curve fitting.”, Sci. Rep. (2017) 1–9.
 
 # Disclaimer
 The software and data on this site are provided for personal or academic use only and may not be used in any commercial venture or distributions. All files have been virus scanned, however, for your own protection; you should scan these files again. You assume the entire risk related to your use of this software and data. By using the software and data on this site your expressly assume all risks of data loss or damage alleged to have been caused by the software and data. The Biophysical Fluorescence Laboratory at NUS is providing this data "as is," and disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will the Biophysical Fluorescence Laboratory at NUS and/or NUS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this software and data.
