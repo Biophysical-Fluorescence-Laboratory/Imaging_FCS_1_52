@@ -15,12 +15,12 @@ Click on Help -> Update. Later click on Manage update sites. Check the boxes nex
 
 # Option 2: By downloading the files provided here in GITHUB
 The following files are needed:
-Imaging_FCS_1_52.jar : Put this file in the plugin folder of FIJI (“Fiji.app\plugins”). 
-gpufitImFCS.jar : Put this file in the jars folder of FIJI (“Fiji.app\jars”). Start FIJI. You will find Imaging_FCS_1_52 under the plugin tab.
-Imagescience: Either install imagescience.jar in the jar folder within FIJI or link the update side to imagescience. This supports the probability distributions used in the simulator.
+1. Imaging_FCS_1_52.jar : Put this file in the plugin folder of FIJI (“Fiji.app\plugins”). 
+2. gpufitImFCS.jar : Put this file in the jars folder of FIJI (“Fiji.app\jars”). Start FIJI. You will find Imaging_FCS_1_52 under the plugin tab.
+3. Imagescience: Either install imagescience.jar in the jar folder within FIJI or link the update side to imagescience. This supports the probability distributions used in the simulator.
 http://www.imagescience.org/meijering/software/imagescience/
 
-Apache POI :  You need to install Apache poi-3.17 (the latest stable release at the time of writing). The Apache Poi provides the necessary code for the writing and reading of .xlsx spreadsheet files, which are used to store and read experimental data. You can copy the whole poi-3.17 folder into the jars folder of Fiji (\Fiji.app\jars). It has also been found that sometimes there are errors in reading the jar files inside the poi folder.
+4. Apache POI :  You need to install Apache poi-3.17 (the latest stable release at the time of writing). The Apache Poi provides the necessary code for the writing and reading of .xlsx spreadsheet files, which are used to store and read experimental data. You can copy the whole poi-3.17 folder into the jars folder of Fiji (\Fiji.app\jars). It has also been found that sometimes there are errors in reading the jar files inside the poi folder.
 http://poi.apache.org/download.html
 
 In case, if there are errors while trying to run the plugin and if the error is associated with poi files, one suggestion is to place all the jar files inside the poi folder directly under the jars folder. In total, there must be 13 jar files as per poi 3.17. Six of them are found just inside the folder. Five of them are in the lib folder and another two of them are in the ooxml-lib folder.
@@ -29,14 +29,17 @@ In case, if there are errors while trying to run the plugin and if the error is 
 If you want to compile the program yourself:
 You will then need Imaging_FCS_1_52.java : This is the Java code from which the .jar file was produced. You can open it in FIJI and compile it yourself.
 For manual compilation of GpufitImFCS.java and the CUDA code, agpufitjni.cu , please refer to section 1.3.3 in the Imaging FCS_1_52 Manual
-PC: If you want to compile the program on a PC in ImageJ, you need to install a JDK (e.g. I used Jave SE - jdk1.8.0_102). For details see http://forum.imagej.net/t/no-javac-jar-found/2340 and http://stackoverflow.com/questions/18455732/play-framework-cant-find-javac .
-Mac: If you would to compile the program yourself you need to install a Java IDE, i.e. an Integrative Development Environment. Netbeans, for instance, is free and worked fine for us. But there are other free IDEs, e.g. Eclipse, JSource, IntelliJ IDEA etc. OR drag and drop Imaging_FCS_1_52.java onto FIJI control panel and make sure gpufitImFCS.jar is in "jars" folder of FIJI. Note that manual compilation of GpufitImFCS.java requires Mac OS with supported NVIDIA graphic cards. We recommend manual compilation of GpufitImFCS.java through Windows or Linux.
+1. PC: If you want to compile the program on a PC in ImageJ, you need to install a JDK (e.g. I used Jave SE - jdk1.8.0_102). For details see http://forum.imagej.net/t/no-javac-jar-found/2340 and http://stackoverflow.com/questions/18455732/play-framework-cant-find-javac .
+2. Mac: If you would to compile the program yourself you need to install a Java IDE, i.e. an Integrative Development Environment. Netbeans, for instance, is free and worked fine for us. But there are other free IDEs, e.g. Eclipse, JSource, IntelliJ IDEA etc. OR drag and drop Imaging_FCS_1_52.java onto FIJI control panel and make sure gpufitImFCS.jar is in "jars" folder of FIJI. Note that manual compilation of GpufitImFCS.java requires Mac OS with supported NVIDIA graphic cards. We recommend manual compilation of GpufitImFCS.java through Windows or Linux.
 
 # An important note:
 Switch off SCIFIO for file opening in ImageJ2 as Imaging_FCS_1_52 does not work with SCIFIO yet. To switch SCIFIO off, go to Edit\Options\ImageJ2 in the Fiji control bar. A dialog will appear in which you can untick the option “Use SCIFIO when opening files”.
 
 # Example File
 Bilayer.tif: This is an example tiff stack to test the program. In general a tiff stack should contain at least 20,000 frames which were recorded with a time resolution of 1 ms or less. This is sufficient to resolve the dynamics in lipid bilayers. However, we recommend to take at least 50,000 frames for better statistics. For faster processes, shorter frame times and more frames are required (see Sankaran et al. Analytical Chemistry 2013).
+
+# Manual
+This manual contains the basic instructions how to use the program, the definition of all items in the control and fit panels, the file formats of the saved data, and the theoretical functions used for fitting.
 
 # References:
 # Correlator Scheme
