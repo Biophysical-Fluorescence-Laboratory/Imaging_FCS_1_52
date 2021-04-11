@@ -40,7 +40,8 @@ Bilayer.tif: This is an example tiff stack to test the program. In general a tif
 This manual contains the basic instructions how to use the program, the definition of all items in the control and fit panels, the file formats of the saved data, and the theoretical functions used for fitting.
 
 # References
-1. Jagadish Sankaran, Wai Hoh Tang and Thorsten Wohland. Imaging_FCS_1_52. doi:10.5281/zenodo.4679340 (2021).
+This plugin:
+1. Jagadish Sankaran, Wai Hoh Tang and Thorsten Wohland. Imaging_FCS_1_52. doi:10.5281/zenodo.4679340. https://github.com/ImagingFCS/Imaging_FCS_1_52 (2021).
 
 # Correlator Scheme
 1. Meseth, U., T. Wohland, R. Rigler, and H. Vogel. 1999. "Resolution of fluorescence correlation measurements." Biophys J. 76: 1619–1631.
