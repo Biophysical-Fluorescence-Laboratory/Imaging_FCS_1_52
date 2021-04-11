@@ -41,7 +41,7 @@ This manual contains the basic instructions how to use the program, the definiti
 
 # References
 This plugin:
-1. Jagadish Sankaran, Wai Hoh Tang and Thorsten Wohland. Imaging_FCS_1_52. doi:10.5281/zenodo.4679340. https://github.com/ImagingFCS/Imaging_FCS_1_52 (2021).
+1. Jagadish Sankaran, Wai Hoh Tang & Thorsten Wohland. Imaging_FCS_1.52.v1. (2021). https://doi.org/10.5281/zenodo.4679340 ; https://github.com/ImagingFCS/Imaging_FCS_1_52 (2021).
 
 # Correlator Scheme
 1. Meseth, U., T. Wohland, R. Rigler, and H. Vogel. 1999. "Resolution of fluorescence correlation measurements." Biophys J. 76: 1619–1631.
